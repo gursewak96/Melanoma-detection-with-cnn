@@ -59,10 +59,26 @@ The data set contains the following diseases:
 - Write your findings after the model fit, see if the issues are resolved or not?
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- **M1 (Base Model)**
+    - It is evident from the graph that the model is **overfitting** insanely with training accuracy of 0.8666 and validation accuracy of  0.4586.
+    - It is performing excellent on training dataset but performance is poor on validation or unseen dataset.
+    - It is clearly a bad model, and could be life threatening, need tackle this problem of overfitting.
+- **M2 (With Augmentation)**
+    - It is clearly visible that the problem of overfitting is not there as training accuracy is 0.5525 and validation accuracy is 0.4877.
+    - Adding a Augmentation Layers handled the overfitting problem, but its not doing anything good either, as performance of model is degraded.
+- **Model M3 (With Augmentation and Dropouts)**
+    - There no improvement in model by adding dropouts
+    - There is a slight decrease in training accuracy (0.4900) as well as validation accuracy (0.4676)
+- **Model M4 (With Augmentation, Dropouts and CN layer)**
+    - There is an improvement by adding an additional CN layer
+    - traning accuracy increase to 0.5307 and validation accuracy increased to 0.5145
+    - Moreover, there is no overfitting as traning and validatin are in close proximity
+- **Model M5 With Augmentation, Dropouts, CN layer and Batch Normalization**
+    - There is an increase in traning accuracy (0.5720) and a drop has been seen validation accuracy (0.4609).
+- **Model After Rebalancing the sample in dataset**
+    - As compared to all the previous model we have pretty satisfactory results: tranining accuracy of 0.6000 and validation accuracy of 0.5397.
+    - Compared to Base Model with training accuracy of 0.8917 and validation accuracy of 0.4855 (**Overfitting**). There is no Overfitting noticed here as validation and traning accuracy are in close proximity or overlapping.
+    - We can say that **CLASS REBALANCE** does help alot in training a CNN model.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -78,7 +94,9 @@ The data set contains the following diseases:
 
 
 ## Contact
-Created by [@gursewak96] - feel free to contact me!
+Conducted by 
+
+- [@gursewak96] - feel free to contact me! 🙋‍♂️
 
 
 <!-- Optional -->
