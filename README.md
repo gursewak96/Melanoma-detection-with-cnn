@@ -1,4 +1,4 @@
-# Melanoma detection with CNN
+#🕵️ Melanoma detection with CNN
 > In this assignment, we built a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
@@ -11,7 +11,7 @@
 
 <!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
+## 💁 General Information
 
 
 **Problem statement**: To build a CNN based model which can accurately detect melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. A solution that can evaluate images and alert dermatologists about the presence of melanoma has the potential to reduce a lot of manual effort needed in diagnosis.
@@ -33,7 +33,7 @@ The data set contains the following diseases:
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-## Project Pipeline
+## 💡 Project Pipeline
 
 - Data Reading/Data Understanding → Defining the path for train and test images 
 - Dataset Creation→ Create train & validation dataset from the train directory with a batch size of 32. Also, make sure you resize your images to 180*180.
@@ -59,7 +59,7 @@ The data set contains the following diseases:
 - Train the model for ~30 epochs
 - Write your findings after the model fit, see if the issues are resolved or not?
 
-## Conclusions
+## 🧠 Conclusions
 - **M1 (Base Model)**
     - It is evident from the graph that the model is **overfitting** insanely with training accuracy of 0.8666 and validation accuracy of  0.4586.
     - It is performing excellent on training dataset but performance is poor on validation or unseen dataset.
@@ -84,7 +84,7 @@ The data set contains the following diseases:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## ⚙️ Technologies Used
 - pandas
 - numpy
 - tensorflow
@@ -94,12 +94,12 @@ The data set contains the following diseases:
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
-## Contact
+## 📞 Contact
 Conducted by 
 
 - [@gursewak96](https://github.com/gursewak9) - feel free to contact me! 🙋‍♂️
 - [@ummefahad](https://github.com/ummefahad) - feel free to contact ! 🙋‍♀️
-- 
+- [@Munawar-Ali-Sardar](https://github.com/Munawar-Ali-Sardar)
 
 
 <!-- Optional -->
