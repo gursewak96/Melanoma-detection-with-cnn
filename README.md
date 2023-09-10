@@ -5,8 +5,9 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Project Pipeline](#project-pipeline)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
+* [Contacts](#contact)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
