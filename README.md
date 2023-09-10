@@ -97,8 +97,8 @@ The data set contains the following diseases:
 ## Contact
 Conducted by 
 
-- [@gursewak96] - feel free to contact me! 🙋‍♂️
-- [@ummefahad] - feel free to contact ! 🙋‍♀️
+- [@gursewak96](https://github.com/gursewak9) - feel free to contact me! 🙋‍♂️
+- [@ummefahad](https://github.com/ummefahad) - feel free to contact ! 🙋‍♀️
 - 
 
 
