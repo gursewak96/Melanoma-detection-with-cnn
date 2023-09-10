@@ -1,4 +1,4 @@
-#🕵️ Melanoma detection with CNN
+# 🕵️ Melanoma detection with CNN
 > In this assignment, we built a multiclass classification model using a custom convolutional neural network in TensorFlow.
 
 
