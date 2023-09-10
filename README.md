@@ -99,7 +99,7 @@ Conducted by
 
 - [@gursewak96](https://github.com/gursewak9) - feel free to contact me! 🙋‍♂️
 - [@ummefahad](https://github.com/ummefahad) - feel free to contact ! 🙋‍♀️
-- [@Munawar-Ali-Sardar](https://github.com/Munawar-Ali-Sardar)
+- [@Munawar-Ali-Sardar](https://github.com/Munawar-Ali-Sardar) - feel free to contact ! 🙋‍♂️
 
 
 <!-- Optional -->
